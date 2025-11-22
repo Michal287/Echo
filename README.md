@@ -141,3 +141,17 @@ Projekt stawia na atmosferę, nie krzyk. Na tajemnicę, nie jumpscare.
 
 ---
 
+# Jak pracujemy:
+Wszyscy pracują na branch shared:
+
+### Przed pracą 
+```
+git pull
+```
+
+### Po pracy
+```
+git add .
+git commit -m "nowe eventy dev_jarek"
+git push
+```
